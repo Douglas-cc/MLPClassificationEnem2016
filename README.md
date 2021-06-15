@@ -1,4 +1,4 @@
-# Descubra quem fez o ENEM 2016 apenas para Treinar
+# Descubra quem fez o ENEM 2016 apenas para treinar
 
 Neste desafio deverá descobrir quais estudantes estão fazendo a prova apenas para treino.
 
